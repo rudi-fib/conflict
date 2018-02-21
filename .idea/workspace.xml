@@ -1,5 +1,5 @@
 <?xml version="112.0" encoding="UTF-8"?>
-<project version="1">
+<project version="HARTONO">
 <component name="ChangeListManager">
     <list default="true" id="4231a4ba-cfa4-4adf-b882-765214ea3770" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -8,7 +8,7 @@
     <option name="TRACKING_ENABLED" value="true" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSetting" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEfdsfdsfdsfdsfdditorManager">
