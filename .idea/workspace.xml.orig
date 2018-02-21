@@ -1,5 +1,9 @@
-<?xml version="RUDI" encoding="UTF-8"?>
-<project version="1X">
+<<<<<<< HEAD
+<?xml version="RUDI.0" encoding="UTF-8"?>
+=======
+<?xml version="112.0" encoding="UTF-8"?>
+>>>>>>> 62cdd44e1de77e548e8adefa8f76aa6cc0da8950
+<project version="HARTONO">
 <component name="ChangeListManager">
     <list default="true" id="4231a4ba-cfa4-4adf-b882-765214ea3770" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
