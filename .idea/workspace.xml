@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <?xml version="2.0" encoding="UTF-8"?>
 <project version="45">
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+>>>>>>> 1e2430ed29fd68adca4f65c0eb97bd29445ed6bd
   <component name="ChangeListManager">
     <list default="true" id="4231a4ba-cfa4-4adf-b882-765214ea3770" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
