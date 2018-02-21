@@ -86,22 +86,12 @@
         <option value="$PROJECT_DIR$/application/config/development/database.php" />
         <option value="$PROJECT_DIR$/application/models/Transaction_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/v1/Checksession.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getsessionstatus.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Createtransactiontable.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getuserlist.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Relasecodeusage.php" />
-        <option value="$PROJECT_DIR$/application/models/Releasecode_model.php" />
-        <option value="$PROJECT_DIR$/application/models/Generatepromo_model.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Checkpromocodeexist.php" />
-        <option value="$PROJECT_DIR$/application/config/development/config.php" />
-        <option value="$PROJECT_DIR$/application/config/production/config.php" />
         <option value="$PROJECT_DIR$/application/views/docs/doc_release_code.php" />
         <option value="$PROJECT_DIR$/application/views/docs/doc_automatic_generate_promo_code.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="PHP" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
