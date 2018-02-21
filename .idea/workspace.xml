@@ -80,15 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getusergroupcategory.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Insertnewuser.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Deleteuser.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Insertsession.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getuser.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getuserdata.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Insertnewusergroup.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Getusergroupdata.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Edituser.php" />
         <option value="$PROJECT_DIR$/application/controllers/v1/Deleteusergroup.php" />
         <option value="$PROJECT_DIR$/application/config/production/database.php" />
         <option value="$PROJECT_DIR$/application/config/staging/database.php" />
@@ -164,10 +155,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="futuready_api_portal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="futuready_api_portal" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
             <path>
               <item name="futuready_api_portal" type="b2602c69:ProjectViewProjectNode" />
               <item name="futuready_api_portal" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -255,9 +242,6 @@
       <updated>1511925186238</updated>
       <workItem from="1511925187462" duration="1764000" />
       <workItem from="1512007629943" duration="12737000" />
-      <workItem from="1512355393041" duration="12837000" />
-      <workItem from="1512438589821" duration="6753000" />
-      <workItem from="1512526097743" duration="4795000" />
       <workItem from="1512613466157" duration="3838000" />
       <workItem from="1512702940766" duration="726000" />
       <workItem from="1512973691804" duration="794000" />
