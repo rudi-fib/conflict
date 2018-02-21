@@ -8,8 +8,6 @@
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
@@ -54,11 +52,6 @@
       <find>set_input_da</find>
       <find>maximum_session</find>
       <find>getuserdt</find>
-      <find>update</find>
-      <find>config</find>
-      <find>SELECT</find>
-      <find>key</find>
-      <find>css</find>
       <find>true</find>
     </findStrings>
     <dirStrings>
@@ -103,13 +96,6 @@
         <option value="$PROJECT_DIR$/application/controllers/v1/Checkpromocodeexist.php" />
         <option value="$PROJECT_DIR$/application/config/development/config.php" />
         <option value="$PROJECT_DIR$/application/config/production/config.php" />
-        <option value="$PROJECT_DIR$/application/config/staging/config.php" />
-        <option value="$PROJECT_DIR$/application/views/rest_server.php" />
-        <option value="$PROJECT_DIR$/application/views/doc_index.php" />
-        <option value="$PROJECT_DIR$/application/views/docs/doc_book_code.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Documentation.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Generatepromocode.php" />
-        <option value="$PROJECT_DIR$/application/controllers/v1/Releasecodeusage.php" />
         <option value="$PROJECT_DIR$/application/views/docs/doc_release_code.php" />
         <option value="$PROJECT_DIR$/application/views/docs/doc_automatic_generate_promo_code.php" />
       </list>
